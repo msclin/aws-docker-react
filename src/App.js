@@ -7,9 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <p>This change was made on the `feature` branch.</p>
         <a
           className="App-link"
           href="https://reactjs.org"
@@ -18,7 +16,6 @@ function App() {
         >
           Learn React
         </a>
-        <p>This is some text. I updated it to make sure deployments are working.</p>
       </header>
     </div>
   );
